@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Smart Pill</string>
+    <string name="tray_1">Tray 1</string>
+    <string name="tray_2">Tray 2</string>
+
+    <string name="send">SEND</string>
+    <string name="tablet_form">Tablet Form</string>
+    <string name="afternoon">Afternoon</string>
+    <string name="cont">Continue</string>
+    <string name="title_activity_login">Sign in</string>
+
+
+    <string name="enter_email_id">Enter Email ID</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="no_account_go_to_signup">No Account? Go to SignUp</string>
+    <string name="signup">Sign Up</string>
+    <string name="go_to_login">Go to Login</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="morning">Morning</string>
+    <string name="night">Night</string>
+    <string name="before_food">Before Food</string>
+    <string name="after_food">After Food</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="enter_the_tablet_name">Enter the tablet name</string>
+    <string name="save">Save</string>
+    <string name="tablet_name">Tablet Name</string>
+    <string name="bluetooth_connection">Bluetooth Connection</string>
+    <string name="send_data">Send Data</string>
+    <string name="send_morning_data">Send Morning Data</string>
+    <string name="send_afternoon_data">Send Afternoon Data</string>
+    <string name="send_nigth_dat_a">Send Nigth Data</string>
+    <string name="an_after_food">AN After Food</string>
+    <string name="night_after_food">Night After Food</string>
+    <string name="morning_after_food">Morning After Food</string>
+    <string name="an_before_food">AN Before Food</string>
+    <string name="night_before_food">Night Before Food</string>
+    <string name="morning_before_food">Morning Before Food</string>
+    <string name="open">OPEN</string>
+    <string name="close">CLOSE</string>
+    <string name="alarm_clock">Alarm Clock</string>
+
+    <string name="title_activity_fs__alarm_dialog">FS_AlarmDialogActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="no_cardetails">Click on the button below to begin creating your reminder!</string>
+    <string name="title_activity_add_reminder">Add Reminder</string>
+    <string name="title_activity_edit_reminder">Edit Reminder</string>
+    <string name="title_activity_licenses">Licenses</string>
+
+    <string name="add_reminder">Reminder</string>
+    <string name="details">Details</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="repeat">Repeat</string>
+    <string name="repeat_off">Off</string>
+    <string name="repeat_no">Repetition Interval </string>
+    <string name="repeat_type">Type of Repetitions</string>
+
+    <string name="action_discard_reminder">Discard Reminder</string>
+    <string name="action_save_reminder">Save Reminder</string>
+
+    <string name="editor_activity_title_new_reminder">Add Reminder Details</string>
+    <string name="editor_activity_title_edit_reminder">Edit Reminder</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this Reminder?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_reminder_successful">Reminder deleted</string>
+
+    <string name="editor_delete_reminder_failed">Error with deleting reminder</string>
+
+    <string name="editor_insert_reminder_successful">Reminder saved</string>
+
+    <string name="editor_insert_reminder_failed">Error with saving reminder</string>
+
+    <string name="editor_update_reminder_successful">Reminder updated</string>
+
+    <string name="editor_update_reminder_failed">Error with updating reminder</string>
+
+    <string name="reminder_title">AlarmReminder</string>
+    <string name="SharedPreferencesDBNAME">MYDB</string>
+    <string name="tray1">MyTray1</string>
+    <string name="tray2">MyTray2</string>
+    <string name="intenty">intentID</string>
+
+</resources>
